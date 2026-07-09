@@ -14,7 +14,11 @@ My research focuses on theoretical and computational studies of black hole pertu
 
 ## Publications & Notes
 
-Research notes and publications will be added here.
+``
+Phys. Rev. D 113, 104013
+– Published 8 May, 2026
+Vol. 113, Iss. 10 — 15 May 2026
+``
 
 ## Contact
 
