@@ -1,6 +1,7 @@
 # Junquan Su
 
-PhD Student in Physics
+PhD Student in Astronomy.
+Department of Astronomy, Tsinghua University
 
 ## Research Interests
 
