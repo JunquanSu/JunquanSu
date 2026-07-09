@@ -1,6 +1,6 @@
 # Junquan Su
 
-PhD Student in Physics
+PhD Student in Astronomy
 
 ## Research Interests
 
