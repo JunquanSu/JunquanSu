@@ -1,12 +1,8 @@
-<h1 align="center">Hi, I'm Junquan Su </h1>
+<h1 align="center"> Junquan Su </h1>
 
 <p align="center">
   <b>PhD Student in Astronomy</b><br>
   Department of Astronomy, Tsinghua University
-</p>
-
-<p align="center">
-  <i>Exploring black holes, gravitational radiation, and relativistic perturbation theory.</i>
 </p>
 
 ---
@@ -40,6 +36,11 @@ Research notes, publications, and related materials will be added here.
 
 ---
 
+## Education
+- 2025-    , Department of Astronomy, Tsinghua University
+- 2022-2025, Department of Physics, School of Physics and Astronomy, Sun Yat-sen University 
+- 2021-2022, Institut Franco-Chinois de l'Energie Nucléaire, Sun Yat-sen University
+
 ## Contact
 
 GitHub: https://github.com/JunquanSu
@@ -47,5 +48,6 @@ GitHub: https://github.com/JunquanSu
 ---
 
 <p align="center">
-  <i>Black holes · Gravitational waves · Relativistic physics</i>
+  <i></i>
 </p>
+
