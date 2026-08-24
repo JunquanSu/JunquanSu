@@ -50,7 +50,7 @@ Research notes, publications, and related materials will be added here.
 - 2025-    , Department of Astronomy, Tsinghua University, PhD Student
 - 2022-2025, Department of Physics, School of Physics and Astronomy / TianQin Research Center for Gravitational Physics, Sun Yat-sen University, Undergraduate Student
 - 2021-2022, Institut Franco-Chinois de l'Energie Nucléaire, Sun Yat-sen University, Undergraduate Student
-- 
+- 2018-2021，South China Normal University High School
 - 2015-2018, Guangzhou No.97 Middle School
 ## Contact
 
