@@ -100,7 +100,7 @@ For practical reasons, the source code for these frequency-domain solvers will n
 
 ### Time-domain Teukolsky solver
 
-We have also developed an independent **time-domain solver for the Teukolsky equation in horizon-penetrating, hyperboloidally compactified (HPHC) coordinates** which works on Nvidia GPUs. The formulation evolves the spin-$s$ Teukolsky equation on a compactified domain extending from the black-hole horizon to future null infinity $\mathcal{I}^{+}$, allowing the retarded waveform to be extracted directly at null infinity without an additional large-radius extrapolation.
+We have also developed an independent **time-domain solver for the Teukolsky equation in horizon-penetrating, hyperboloidally compactified (HPHC) coordinates** which works on Nvidia GPUs. The formulation evolves the spin- $s$ Teukolsky equation on a compactified domain extending from the black-hole horizon to future null infinity $\mathcal{I}^{+}$, allowing the retarded waveform to be extracted directly at null infinity without an additional large-radius extrapolation.
 
 For Kerr spacetime, the azimuthal dependence is decomposed into $m$-modes and the remaining system is evolved in $2+1$ dimensions. The implementation supports localized source profiles and has been used as an independent time-domain benchmark for our frequency-domain Green's-function calculations. In particular, in our Kerr Green's-function decomposition work, it was used to compare the directly evolved waveform at $\mathcal{I}^{+}$ against the waveform reconstructed from the direct and quasinormal-mode contributions.
 
@@ -123,7 +123,3 @@ The time-domain solver is still being packaged and developed into a more reusabl
 - 2015-2018, Guangzhou No.97 Middle School
 
 ---
-
-## Contact
-
-GitHub: https://github.com/JunquanSu
