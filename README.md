@@ -76,7 +76,7 @@ We have developed homogeneous solvers for the **Regge–Wheeler–Zerilli**, **T
 
 Considerable attention has been paid to numerical stability and reliability throughout the complex-frequency plane while retaining computational efficiency suitable for large-scale calculations.
 
-In our tests, we have encountered several subtle but important numerical issues in some currently available public implementations when they are applied at complex frequencies. In particular, some tools available through the [Black Hole Perturbation Toolkit](https://bhptoolkit.org/index.html) can exhibit inaccuracies in parts of the complex-frequency plane that may be difficult to detect in standard real-frequency calculations. We have also found that `GeneralizedSasakiNakamura.jl` becomes unreliable in regions of the \(\omega\)-plane close to the imaginary axis, and that at complex frequencies it may return incorrect radial solutions as well as incorrect angular solutions.
+In our tests, we have encountered many subtle but important theoretical issues in some currently available public implementations when they are applied at complex frequencies. In particular, some tools available through the [Black Hole Perturbation Toolkit](https://bhptoolkit.org/index.html) can exhibit inaccuracies in parts of the complex-frequency plane that may be difficult to detect in standard real-frequency calculations. We have also found that `GeneralizedSasakiNakamura.jl` becomes unreliable in regions of the $\omega$-plane close to the imaginary axis, and that at complex frequencies it may return incorrect radial solutions as well as incorrect angular solutions.
 
 These observations motivated the development of our own independent numerical infrastructure, with an emphasis on robustness across the complex-frequency plane.
 
@@ -84,9 +84,9 @@ For practical reasons, the source code for these frequency-domain solvers will n
 
 ### Time-domain Teukolsky solver
 
-We have also developed an independent **time-domain solver for the Teukolsky equation in horizon-penetrating, hyperboloidally compactified (HPHC) coordinates**. The formulation evolves the spin-\(s\) Teukolsky equation on a compactified domain extending from the black-hole horizon to future null infinity \(\mathcal{I}^{+}\), allowing the retarded waveform to be extracted directly at null infinity without an additional large-radius extrapolation.
+We have also developed an independent **time-domain solver for the Teukolsky equation in horizon-penetrating, hyperboloidally compactified (HPHC) coordinates** which works on Nvidia GPUs. The formulation evolves the spin-$s$ Teukolsky equation on a compactified domain extending from the black-hole horizon to future null infinity $\mathcal{I}^{+}$, allowing the retarded waveform to be extracted directly at null infinity without an additional large-radius extrapolation.
 
-For Kerr spacetime, the azimuthal dependence is decomposed into \(m\)-modes and the remaining system is evolved in \(2+1\) dimensions. The implementation supports localized source profiles and has been used as an independent time-domain benchmark for our frequency-domain Green's-function calculations. In particular, in our Kerr Green's-function decomposition work, it was used to compare the directly evolved waveform at \(\mathcal{I}^{+}\) against the waveform reconstructed from the direct and quasinormal-mode contributions.
+For Kerr spacetime, the azimuthal dependence is decomposed into $m$-modes and the remaining system is evolved in $2+1$ dimensions. The implementation supports localized source profiles and has been used as an independent time-domain benchmark for our frequency-domain Green's-function calculations. In particular, in our Kerr Green's-function decomposition work, it was used to compare the directly evolved waveform at $\mathcal{I}^{+}$ against the waveform reconstructed from the direct and quasinormal-mode contributions.
 
 A technical description of the current implementation can be found in **Appendix D** of:
 
@@ -94,7 +94,7 @@ A technical description of the current implementation can be found in **Appendix
 > *Gravitational Waves from Green's Function Decomposition for a Kerr Black Hole: I. Equatorial ISCO Plunge*,
 > [arXiv:2608.17943](https://arxiv.org/abs/2608.17943).
 
-The time-domain solver is still being packaged and developed into a more reusable numerical tool, and we expect to use and extend it in future work. It will therefore **not be publicly released in the near term**. Depending on the progress of code maintenance, documentation, and packaging, we expect to make it available on a request basis at a later stage. Once the code reaches that stage, researchers interested in using it will be welcome to contact me by email, in the same manner as for the frequency-domain solvers.
+The time-domain solver is still being packaged and developed into a more reusable numerical tool, and we expect to use and extend it in future work. It will therefore not be publicly released in the near term. Depending on the progress of code maintenance, documentation, and packaging, we expect to make it semi-available on a request basis at a later stage. Once the code reaches that stage, researchers interested in using it will be welcome to contact me by email, in the same manner as for the frequency-domain solvers.
 
 
 
