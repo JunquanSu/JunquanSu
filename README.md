@@ -88,7 +88,7 @@ The calculations in these works rely on a set of in-house numerical tools develo
 
 ### Frequency-domain homogeneous solvers
 
-We have developed homogeneous solvers for the **Regge–Wheeler–Zerilli**, **Teukolsky**, and **Sasaki–Nakamura** equations. These solvers are designed to provide reliable radial solutions and asymptotic amplitudes over a relatively large parameter space, with particular emphasis on regimes involving large complex frequencies.
+We have developed homogeneous solvers for the **Regge–Wheeler–Zerilli**, **Teukolsky**, and **Sasaki–Nakamura** equations. These solvers are designed to provide reliable radial solutions and asymptotic amplitudes over a relatively large parameter space, with particular emphasis on regimes involving large complex frequencies. For the Teukolsky equation, our frequency-domain suite also solves the **angular Teukolsky equation**, providing the corresponding angular solutions and separation eigenvalues, including at complex frequencies.
 
 Considerable attention has been paid to numerical stability and reliability throughout the complex-frequency plane while retaining computational efficiency suitable for large-scale calculations.
 
