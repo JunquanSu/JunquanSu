@@ -1,27 +1,39 @@
-<h1 align="center"> Junquan Su </h1>
+<h1 align="center">Junquan Su</h1>
 
 <p align="center">
   <b>PhD Student in Astronomy</b><br>
   Department of Astronomy, Tsinghua University
 </p>
 
+<p align="center">
+  <a href="#research-interests">Research Interests</a> ·
+  <a href="#publications">Publications</a> ·
+  <a href="#numerical-tools">Numerical Tools</a> ·
+  <a href="#education">Education</a> ·
+  <a href="#contact">Contact</a>
+</p>
+
 ---
 
 ## Research Interests
-- **Gravitational Wave Physics**
-- **Black hole perturbation theory**
-  
 
+<p align="center">
+  <b>Gravitational Wave Physics</b> &nbsp;·&nbsp; <b>Black hole perturbation theory</b>
+</p>
+
+---
 
 ## Publications
 
 ### Decomposition of the Schwarzschild Green's function
 
-**Junquan Su**, Neev Khera, Marc Casals, Sizheng Ma, Abhishek Chowdhuri, and Huan Yang
+**Junquan Su**, Neev Khera, Marc Casals, Sizheng Ma, Abhishek Chowdhuri, and Huan Yang  
 *Physical Review D* **113**, 104013 (2026)
 
-[Journal](https://link.aps.org/doi/10.1103/3n8r-8kbb) ·
-[Data](https://github.com/JunquanSu/Schwarzschild_Greens_Function_Decomposition_Data)
+[Journal](https://link.aps.org/doi/10.1103/3n8r-8kbb) · [Data](https://github.com/JunquanSu/Schwarzschild_Greens_Function_Decomposition_Data)
+
+<details>
+<summary><b>BibTeX</b></summary>
 
 ```bibtex
 @article{3n8r-8kbb,
@@ -40,14 +52,19 @@
 }
 ```
 
----
+</details>
+
+<br>
 
 ### Gravitational Waves from Green's Function Decomposition for a Kerr Black Hole: I. Equatorial ISCO Plunge
 
-**Junquan Su**, Neev Khera, Abhishek Chowdhuri, Marc Casals, and Huan Yang
+**Junquan Su**, Neev Khera, Abhishek Chowdhuri, Marc Casals, and Huan Yang  
 arXiv:2608.17943 [gr-qc] (2026)
 
 [arXiv](https://arxiv.org/abs/2608.17943)
+
+<details>
+<summary><b>BibTeX</b></summary>
 
 ```bibtex
 @article{Su:2026gmp,
@@ -61,10 +78,9 @@ arXiv:2608.17943 [gr-qc] (2026)
 }
 ```
 
+</details>
+
 ---
-
-
-
 
 ## Numerical Tools
 
@@ -90,31 +106,24 @@ For Kerr spacetime, the azimuthal dependence is decomposed into $m$-modes and th
 
 A technical description of the current implementation can be found in **Appendix D** of:
 
-> J. Su, N. Khera, A. Chowdhuri, M. Casals, and H. Yang,
-> *Gravitational Waves from Green's Function Decomposition for a Kerr Black Hole: I. Equatorial ISCO Plunge*,
+> J. Su, N. Khera, A. Chowdhuri, M. Casals, and H. Yang,  
+> *Gravitational Waves from Green's Function Decomposition for a Kerr Black Hole: I. Equatorial ISCO Plunge*,  
 > [arXiv:2608.17943](https://arxiv.org/abs/2608.17943).
 
 The time-domain solver is still being packaged and developed into a more reusable numerical tool, and we expect to use and extend it in future work. It will therefore not be publicly released in the near term. Depending on the progress of code maintenance, documentation, and packaging, we expect to make it semi-available on a request basis at a later stage. Once the code reaches that stage, researchers interested in using it will be welcome to contact me by email, in the same manner as for the frequency-domain solvers.
 
-
-
-
-
 ---
 
 ## Education
+
 - 2025-    , Department of Astronomy, Tsinghua University, PhD Student
 - 2022-2025, Department of Physics, School of Physics and Astronomy / TianQin Research Center for Gravitational Physics, Sun Yat-sen University, Undergraduate Student
 - 2021-2022, Institut Franco-Chinois de l'Energie Nucléaire, Sun Yat-sen University, Undergraduate Student
 - 2018-2021，South China Normal University High School
 - 2015-2018, Guangzhou No.97 Middle School
-## Contact
-
-GitHub: https://github.com/JunquanSu
 
 ---
 
-<p align="center">
-  <i></i>
-</p>
+## Contact
 
+GitHub: https://github.com/JunquanSu
