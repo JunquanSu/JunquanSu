@@ -30,7 +30,9 @@
 **Junquan Su**, Neev Khera, Marc Casals, Sizheng Ma, Abhishek Chowdhuri, and Huan Yang  
 *Physical Review D* **113**, 104013 (2026)
 
-[**Journal**](https://link.aps.org/doi/10.1103/3n8r-8kbb) · [**Data**](https://github.com/JunquanSu/Schwarzschild_Greens_Function_Decomposition_Data)
+[![PDF](https://img.shields.io/badge/PDF-article-1f6feb?style=flat-square)](https://journals.aps.org/prd/pdf/10.1103/3n8r-8kbb)
+[![Journal](https://img.shields.io/badge/Journal-Phys.%20Rev.%20D-6f42c1?style=flat-square)](https://link.aps.org/doi/10.1103/3n8r-8kbb)
+[![Data](https://img.shields.io/badge/Data-GitHub-2da44e?style=flat-square)](https://github.com/JunquanSu/Schwarzschild_Greens_Function_Decomposition_Data)
 
 <details>
 <summary><b>BibTeX</b></summary>
@@ -61,7 +63,8 @@
 **Junquan Su**, Neev Khera, Abhishek Chowdhuri, Marc Casals, and Huan Yang  
 arXiv:2608.17943 [gr-qc] (2026)
 
-[**arXiv**](https://arxiv.org/abs/2608.17943)
+[![PDF](https://img.shields.io/badge/PDF-arXiv-1f6feb?style=flat-square)](https://arxiv.org/pdf/2608.17943)
+[![arXiv](https://img.shields.io/badge/arXiv-2608.17943-b31b1b?style=flat-square)](https://arxiv.org/abs/2608.17943)
 
 <details>
 <summary><b>BibTeX</b></summary>
