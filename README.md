@@ -25,7 +25,7 @@
 
 ## Publications
 
-<table>
+<table width="100%">
 <tr>
 <td width="100%" valign="top">
 
@@ -64,11 +64,7 @@
 
 </td>
 </tr>
-</table>
 
-<br>
-
-<table>
 <tr>
 <td width="100%" valign="top">
 
