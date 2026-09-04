@@ -20,7 +20,7 @@
 
 We have developed an independent **time-domain solver for the Teukolsky equation in horizon-penetrating, hyperboloidally compactified (HPHC) coordinates**.
 
-The formulation evolves the spin-$s$ Teukolsky equation on a compactified domain extending from the black-hole horizon to future null infinity $\mathcal{I}^{+}$, allowing the retarded waveform to be extracted directly at null infinity without an additional large-radius extrapolation.
+The formulation evolves the spin-s Teukolsky equation on a compactified domain extending from the black-hole horizon to future null infinity $\mathcal{I}^{+}$, allowing the retarded waveform to be extracted directly at null infinity without an additional large-radius extrapolation.
 
 ## Features
 
