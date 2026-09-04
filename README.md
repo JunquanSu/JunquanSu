@@ -6,11 +6,11 @@
 </p>
 
 <p align="center">
-  <a href="#research-interests">Research Interests</a> ·
-  <a href="#publications">Publications</a> ·
-  <a href="#numerical-tools">Numerical Tools</a> ·
-  <a href="#education">Education</a> ·
-  <a href="#contact">Contact</a>
+  <a href="#research-interests"><img src="https://img.shields.io/badge/Research%20Interests-24292f?style=flat-square" alt="Research Interests"></a>
+  <a href="#publications"><img src="https://img.shields.io/badge/Publications-24292f?style=flat-square" alt="Publications"></a>
+  <a href="#numerical-tools"><img src="https://img.shields.io/badge/Numerical%20Tools-24292f?style=flat-square" alt="Numerical Tools"></a>
+  <a href="#education"><img src="https://img.shields.io/badge/Education-24292f?style=flat-square" alt="Education"></a>
+  <a href="#contact"><img src="https://img.shields.io/badge/Contact-24292f?style=flat-square" alt="Contact"></a>
 </p>
 
 ---
@@ -25,14 +25,20 @@
 
 ## Publications
 
-### Decomposition of the Schwarzschild Green's function
+<table>
+<tr>
+<td width="100%" valign="top">
 
-**Junquan Su**, Neev Khera, Marc Casals, Sizheng Ma, Abhishek Chowdhuri, and Huan Yang  
-*Physical Review D* **113**, 104013 (2026)
+<h3>Decomposition of the Schwarzschild Green's function</h3>
 
-[![PDF](https://img.shields.io/badge/PDF-article-1f6feb?style=flat-square)](https://journals.aps.org/prd/pdf/10.1103/3n8r-8kbb)
-[![Journal](https://img.shields.io/badge/Journal-Phys.%20Rev.%20D-6f42c1?style=flat-square)](https://link.aps.org/doi/10.1103/3n8r-8kbb)
-[![Data](https://img.shields.io/badge/Data-GitHub-2da44e?style=flat-square)](https://github.com/JunquanSu/Schwarzschild_Greens_Function_Decomposition_Data)
+<p><b>Junquan Su</b>, Neev Khera, Marc Casals, Sizheng Ma, Abhishek Chowdhuri, and Huan Yang<br>
+<i>Physical Review D</i> <b>113</b>, 104013 (2026)</p>
+
+<p>
+<a href="https://journals.aps.org/prd/pdf/10.1103/3n8r-8kbb"><img src="https://img.shields.io/badge/PDF-Article-444c56?style=flat-square" alt="PDF"></a>
+<a href="https://link.aps.org/doi/10.1103/3n8r-8kbb"><img src="https://img.shields.io/badge/Journal-Phys.%20Rev.%20D-6e7781?style=flat-square" alt="Journal"></a>
+<a href="https://github.com/JunquanSu/Schwarzschild_Greens_Function_Decomposition_Data"><img src="https://img.shields.io/badge/Data-GitHub-2da44e?style=flat-square&logo=github" alt="Data"></a>
+</p>
 
 <details>
 <summary><b>BibTeX</b></summary>
@@ -56,15 +62,25 @@
 
 </details>
 
+</td>
+</tr>
+</table>
+
 <br>
 
-### Gravitational Waves from Green's Function Decomposition for a Kerr Black Hole: I. Equatorial ISCO Plunge
+<table>
+<tr>
+<td width="100%" valign="top">
 
-**Junquan Su**, Neev Khera, Abhishek Chowdhuri, Marc Casals, and Huan Yang  
-arXiv:2608.17943 [gr-qc] (2026)
+<h3>Gravitational Waves from Green's Function Decomposition for a Kerr Black Hole: I. Equatorial ISCO Plunge</h3>
 
-[![PDF](https://img.shields.io/badge/PDF-arXiv-1f6feb?style=flat-square)](https://arxiv.org/pdf/2608.17943)
-[![arXiv](https://img.shields.io/badge/arXiv-2608.17943-b31b1b?style=flat-square)](https://arxiv.org/abs/2608.17943)
+<p><b>Junquan Su</b>, Neev Khera, Abhishek Chowdhuri, Marc Casals, and Huan Yang<br>
+arXiv:2608.17943 [gr-qc] (2026)</p>
+
+<p>
+<a href="https://arxiv.org/pdf/2608.17943"><img src="https://img.shields.io/badge/PDF-arXiv-444c56?style=flat-square" alt="PDF"></a>
+<a href="https://arxiv.org/abs/2608.17943"><img src="https://img.shields.io/badge/arXiv-2608.17943-b31b1b?style=flat-square" alt="arXiv"></a>
+</p>
 
 <details>
 <summary><b>BibTeX</b></summary>
@@ -83,6 +99,10 @@ arXiv:2608.17943 [gr-qc] (2026)
 
 </details>
 
+</td>
+</tr>
+</table>
+
 ---
 
 ## Numerical Tools
@@ -93,24 +113,24 @@ The calculations in these works rely on a set of in-house numerical tools develo
 <tr>
 <td width="50%" valign="top">
 
-### [Frequency-Domain Solvers →](numerical-tools/frequency-domain-solvers.md)
+<h3>Frequency-Domain Solvers</h3>
 
-**Regge–Wheeler–Zerilli · Teukolsky · Sasaki–Nakamura**
+<b>Regge–Wheeler–Zerilli · Teukolsky · Sasaki–Nakamura</b>
 
-Reliable radial solutions and asymptotic amplitudes over a relatively large parameter space, with particular emphasis on complex frequencies. The Teukolsky suite also solves the **angular Teukolsky equation**, including angular solutions and separation eigenvalues at complex frequencies.
+<p>Reliable radial solutions and asymptotic amplitudes over a relatively large parameter space, with particular emphasis on complex frequencies. The Teukolsky suite also solves the <b>angular Teukolsky equation</b>, including angular solutions and separation eigenvalues at complex frequencies.</p>
 
-[**Details →**](numerical-tools/frequency-domain-solvers.md)
+<a href="numerical-tools/frequency-domain-solvers.md"><img src="https://img.shields.io/badge/View%20Details-24292f?style=flat-square" alt="View Details"></a>
 
 </td>
 <td width="50%" valign="top">
 
-### [HPHC Time-Domain Teukolsky Solver →](numerical-tools/hphc-teukolsky-solver.md)
+<h3>HPHC Time-Domain Teukolsky Solver</h3>
 
-**Horizon-penetrating · Hyperboloidally compactified · NVIDIA GPU**
+<b>Horizon-penetrating · Hyperboloidally compactified · NVIDIA GPU</b>
 
-Time-domain evolution of the spin-$s$ Teukolsky equation from the black-hole horizon to future null infinity $\mathcal{I}^{+}$, with direct waveform extraction at null infinity.
+<p>Time-domain evolution of the spin-$s$ Teukolsky equation from the black-hole horizon to future null infinity $\mathcal{I}^{+}$, with direct waveform extraction at null infinity.</p>
 
-[**Details →**](numerical-tools/hphc-teukolsky-solver.md)
+<a href="numerical-tools/hphc-teukolsky-solver.md"><img src="https://img.shields.io/badge/View%20Details-24292f?style=flat-square" alt="View Details"></a>
 
 </td>
 </tr>
@@ -132,4 +152,4 @@ Time-domain evolution of the spin-$s$ Teukolsky equation from the black-hole hor
 
 ## Contact
 
-[GitHub](https://github.com/JunquanSu)
+<a href="https://github.com/JunquanSu"><img src="https://img.shields.io/badge/GitHub-JunquanSu-24292f?style=flat-square&logo=github" alt="GitHub"></a>
