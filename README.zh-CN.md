@@ -75,10 +75,10 @@
 
 ## 教育经历
 
-<table width="100%">
+<table width="100%" cellspacing="0">
 <tr>
-<th width="18%">时间</th>
-<th width="82%">单位</th>
+<th align="left">时间</th>
+<th align="left">单位</th>
 </tr>
 <tr>
 <td><b>2025–</b></td>
