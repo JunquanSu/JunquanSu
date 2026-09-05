@@ -132,13 +132,32 @@ The calculations in these works rely on a set of in-house numerical tools develo
 
 ## Education
 
-| Period | Institution |
-|---|---|
-| **2025–** | Department of Astronomy, **Tsinghua University** — PhD Student |
-| **2022–2025** | Department of Physics, School of Physics and Astronomy / TianQin Research Center for Gravitational Physics, **Sun Yat-sen University** — Undergraduate Student |
-| **2021–2022** | Institut Franco-Chinois de l'Energie Nucléaire, **Sun Yat-sen University** — Undergraduate Student |
-| **2018–2021** | South China Normal University High School |
-| **2015–2018** | Guangzhou No.97 Middle School |
+<table width="100%">
+<tr>
+  <th width="18%" align="left">Period</th>
+  <th width="82%" align="left">Institution</th>
+</tr>
+<tr>
+  <td><b>2025–</b></td>
+  <td>Department of Astronomy, <b>Tsinghua University</b> — PhD Student</td>
+</tr>
+<tr>
+  <td><b>2022–2025</b></td>
+  <td>Department of Physics, School of Physics and Astronomy / TianQin Research Center for Gravitational Physics, <b>Sun Yat-sen University</b> — Undergraduate Student</td>
+</tr>
+<tr>
+  <td><b>2021–2022</b></td>
+  <td>Institut Franco-Chinois de l'Energie Nucléaire, <b>Sun Yat-sen University</b> — Undergraduate Student</td>
+</tr>
+<tr>
+  <td><b>2018–2021</b></td>
+  <td>South China Normal University High School</td>
+</tr>
+<tr>
+  <td><b>2015–2018</b></td>
+  <td>Guangzhou No.97 Middle School</td>
+</tr>
+</table>
 
 ---
 
