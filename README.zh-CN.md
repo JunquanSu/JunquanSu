@@ -89,35 +89,47 @@ arXiv:2608.17943 [gr-qc] (2026)</p>
 
 ## 教育经历
 
+<details>
+<summary><b>展开教育经历</b></summary>
+<br>
+
 <table width="100%">
 <tr>
-<td colspan="2" style="padding:0; border:0;"><img src="assets/full-width-spacer.svg" width="100%" height="1" alt=""></td>
+<td colspan="3" style="padding:0; border:0;"><img src="assets/full-width-spacer.svg" width="100%" height="1" alt=""></td>
 </tr>
 <tr>
 <th align="left">时间</th>
 <th align="left">单位</th>
+<th align="left">身份</th>
 </tr>
 <tr>
 <td><b>2025–</b></td>
-<td>清华大学天文系 — 博士生</td>
+<td>清华大学天文系</td>
+<td>博士生</td>
 </tr>
 <tr>
 <td><b>2022–2025</b></td>
-<td>中山大学物理与天文学院 / 天琴中心（本研及毕设） — 本科生</td>
+<td>中山大学物理与天文学院 / 天琴中心（本研及毕设）</td>
+<td>本科生</td>
 </tr>
 <tr>
 <td><b>2021–2022</b></td>
-<td>中山大学中法核工程与技术学院 — 本科生</td>
+<td>中山大学中法核工程与技术学院</td>
+<td>本科生</td>
 </tr>
 <tr>
 <td><b>2018–2021</b></td>
 <td>华南师大附中</td>
+<td>高中生</td>
 </tr>
 <tr>
 <td><b>2015–2018</b></td>
 <td>广州市第九十七中学</td>
+<td>初中生</td>
 </tr>
 </table>
+
+</details>
 
 ---
 
