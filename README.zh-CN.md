@@ -2,7 +2,7 @@
   <a href="README.md"><img src="https://img.shields.io/badge/English-English-6e7781?style=flat-square" alt="English"></a>
 </p>
 
-<h1 align="center">Junquan Su</h1>
+<h1 align="center">苏俊全</h1>
 
 <p align="center">
   <b>天文学博士生</b><br>
@@ -27,7 +27,7 @@
 
 <h3>Decomposition of the Schwarzschild Green's function</h3>
 
-<p><b>Junquan Su</b>, Neev Khera, Marc Casals, Sizheng Ma, Abhishek Chowdhuri, and Huan Yang<br>
+<p><b>Junquan Su</b>, Neev Khera, Marc Casals, Sizheng Ma （马司政）, Abhishek Chowdhuri, and Huan Yang （杨桓）<br>
 <i>Physical Review D</i> <b>113</b>, 104013 (2026)</p>
 
 <p>
@@ -44,7 +44,7 @@
 
 <h3>Gravitational Waves from Green's Function Decomposition for a Kerr Black Hole: I. Equatorial ISCO Plunge</h3>
 
-<p><b>Junquan Su</b>, Neev Khera, Abhishek Chowdhuri, Marc Casals, and Huan Yang<br>
+<p><b>Junquan Su</b>, Neev Khera, Abhishek Chowdhuri, Marc Casals, and Huan Yang （杨桓）<br>
 arXiv:2608.17943 [gr-qc] (2026)</p>
 
 <p>
@@ -66,20 +66,20 @@ arXiv:2608.17943 [gr-qc] (2026)</p>
 <tr>
 <td width="50%" valign="top">
 
-<h3>Frequency-Domain Solvers</h3>
+<h3>黑洞微扰论中齐次方程方程的频域求解包</h3>
 
 <b>Regge–Wheeler–Zerilli · Teukolsky · Sasaki–Nakamura</b>
 
-求解复杂频率下的径向解、渐近振幅以及 Teukolsky angular equation，包括 angular solutions 和 separation eigenvalues。
+求解复杂频率下的径向解、渐近振幅以及角向 Teukolsky 方程，包括角本本征函数和本征值。
 
 </td>
 <td width="50%" valign="top">
 
-<h3>HPHC Time-Domain Teukolsky Solver</h3>
+<h3>穿透视界双曲压缩坐标下的 Teukolsky 方程时域仿真器</h3>
 
-<b>Horizon-penetrating · Hyperboloidally compactified · NVIDIA GPU</b>
 
-在 HPHC 坐标下演化 Teukolsky equation，并直接在未来零无穷处提取波形。
+
+在穿透视界双曲压缩坐标下演化 Teukolsky 方程，并直接在未来零无穷处提取波形。
 
 </td>
 </tr>
@@ -92,10 +92,10 @@ arXiv:2608.17943 [gr-qc] (2026)</p>
 | 时间 | 单位 |
 |---|---|
 | **2025–** | 清华大学天文系 — 博士生 |
-| **2022–2025** | Sun Yat-sen University 物理学院 / TianQin Research Center for Gravitational Physics — 本科生 |
-| **2021–2022** | Institut Franco-Chinois de l'Energie Nucléaire, Sun Yat-sen University — 本科生 |
-| **2018–2021** | South China Normal University High School |
-| **2015–2018** | Guangzhou No.97 Middle School |
+| **2022–2025** | 中山大学物理与天文学院 / 天琴中心（本研及毕设） — 本科生 |
+| **2021–2022** | 中山大学中法核工程与技术学院 — 本科生 |
+| **2018–2021** | 华南师大附中 — 高中生|
+| **2015–2018** | 广州市第九十七中学 — 初中生|
 
 ---
 
