@@ -132,6 +132,10 @@ The calculations in these works rely on a set of in-house numerical tools develo
 
 ## Education
 
+<details>
+<summary><b>Show education history</b></summary>
+<br>
+
 <table width="100%">
 <tr>
   <th width="18%" align="left">Period</th>
@@ -158,6 +162,8 @@ The calculations in these works rely on a set of in-house numerical tools develo
   <td>Guangzhou No.97 Middle School</td>
 </tr>
 </table>
+
+</details>
 
 ---
 
