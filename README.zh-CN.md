@@ -54,7 +54,7 @@
 
 <b>Regge–Wheeler–Zerilli · Teukolsky · Sasaki–Nakamura</b>
 
-<p>求解复杂频率下的径向解、渐近振幅以及角向 Teukolsky 方程，包括角向本征函数和本征值。</p>
+<p>求解复频率下的径向解、渐近振幅以及角向 Teukolsky 方程，包括（合理地解析延拓的）角向本征函数和本征值。</p>
 
 <a href="numerical-tools/frequency-domain-solvers.zh-CN.md"><img src="https://img.shields.io/badge/%E8%AF%A6%E7%BB%86%E4%BB%8B%E7%BB%8D-24292f?style=flat-square" alt="详情"></a>
 
@@ -63,7 +63,7 @@
 
 <h3>HPHC 坐标下的 Teukolsky 方程时域求解器</h3>
 
-<p>在穿透视界双曲压缩坐标下演化 Teukolsky 方程，并直接在未来零无穷处提取波形。</p>
+<p>在穿透视界双曲压缩坐标下演化 Teukolsky 方程，并直接在未来类光无穷远处提取波形。</p>
 
 <a href="numerical-tools/hphc-teukolsky-solver.zh-CN.md"><img src="https://img.shields.io/badge/%E8%AF%A6%E7%BB%86%E4%BB%8B%E7%BB%8D-24292f?style=flat-square" alt="详情"></a>
 
