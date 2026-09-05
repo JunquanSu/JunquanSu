@@ -66,7 +66,7 @@ arXiv:2608.17943 [gr-qc] (2026)</p>
 <tr>
 <td width="50%" valign="top">
 
-<h3>黑洞微扰论中齐次方程方程的频域求解包</h3>
+<h3>黑洞微扰论中齐次方程的频域求解包</h3>
 
 <b>Regge–Wheeler–Zerilli · Teukolsky · Sasaki–Nakamura</b>
 
