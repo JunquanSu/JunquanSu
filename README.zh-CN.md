@@ -22,6 +22,7 @@
 ## 论文发表
 
 <table width="100%">
+<tr><td colspan="2"><img src="assets/full-width-spacer.svg" width="100%" height="1"></td></tr>
 <tr>
 <td width="100%" valign="top">
 
@@ -75,7 +76,7 @@
 
 ## 教育经历
 
-<table width="100%" cellspacing="0">
+<table width="100%">
 <tr>
 <th align="left">时间</th>
 <th align="left">单位</th>
