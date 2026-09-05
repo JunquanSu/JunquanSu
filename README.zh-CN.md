@@ -22,7 +22,6 @@
 ## 论文发表
 
 <table width="100%">
-<tr><td colspan="2"><img src="assets/full-width-spacer.svg" width="100%" height="1"></td></tr>
 <tr>
 <td width="100%" valign="top">
 
@@ -35,6 +34,22 @@
 <a href="https://journals.aps.org/prd/pdf/10.1103/3n8r-8kbb"><img src="https://img.shields.io/badge/PDF-Article-444c56?style=flat-square"></a>
 <a href="https://link.aps.org/doi/10.1103/3n8r-8kbb"><img src="https://img.shields.io/badge/Journal-Phys.%20Rev.%20D-6e7781?style=flat-square"></a>
 <a href="https://github.com/JunquanSu/Schwarzschild_Greens_Function_Decomposition_Data"><img src="https://img.shields.io/badge/Data-GitHub-2da44e?style=flat-square&logo=github"></a>
+</p>
+
+</td>
+</tr>
+
+<tr>
+<td width="100%" valign="top">
+
+<h3>Gravitational Waves from Green's Function Decomposition for a Kerr Black Hole: I. Equatorial ISCO Plunge</h3>
+
+<p><b>Junquan Su</b>, Neev Khera, Abhishek Chowdhuri, Marc Casals, and Huan Yang （杨桓）<br>
+arXiv:2608.17943 [gr-qc] (2026)</p>
+
+<p>
+<a href="https://arxiv.org/pdf/2608.17943"><img src="https://img.shields.io/badge/PDF-arXiv-444c56?style=flat-square"></a>
+<a href="https://arxiv.org/abs/2608.17943"><img src="https://img.shields.io/badge/arXiv-2608.17943-b31b1b?style=flat-square"></a>
 </p>
 
 </td>
@@ -77,6 +92,9 @@
 ## 教育经历
 
 <table width="100%">
+<tr>
+<td colspan="2" style="padding:0; border:0;"><img src="assets/full-width-spacer.svg" width="100%" height="1" alt=""></td>
+</tr>
 <tr>
 <th align="left">时间</th>
 <th align="left">单位</th>
