@@ -5,7 +5,7 @@
 <h1 align="center">HPHC Time-Domain Teukolsky Solver</h1>
 
 <p align="center">
-  <b>Horizon-Penetrating Hyperboloidally Compactified Teukolsky Evolution</b>
+  <b>Horizon-Penetrating Hyperboloidally Compactified (HPHC) Teukolsky Evolution</b>
 </p>
 
 <p align="center">
@@ -27,10 +27,9 @@ The formulation evolves the spin-s Teukolsky equation on a compactified domain e
 - Horizon-penetrating hyperboloidal formulation
 - Direct waveform extraction at future null infinity $\mathcal{I}^{+}$
 - Kerr spacetime evolution
-- $m$-mode decomposition
+- Spectral Method
 - $2+1$ dimensional evolution
 - GPU acceleration using NVIDIA GPUs
-- Localized source profiles
 
 ## Applications
 
