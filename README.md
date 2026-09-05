@@ -9,14 +9,6 @@
   Department of Astronomy, Tsinghua University
 </p>
 
-<p align="center">
-  <a href="#research-interests"><img src="https://img.shields.io/badge/Research%20Interests-24292f?style=flat-square" alt="Research Interests"></a>
-  <a href="#publications"><img src="https://img.shields.io/badge/Publications-24292f?style=flat-square" alt="Publications"></a>
-  <a href="#numerical-tools"><img src="https://img.shields.io/badge/Numerical%20Tools-24292f?style=flat-square" alt="Numerical Tools"></a>
-  <a href="#education"><img src="https://img.shields.io/badge/Education-24292f?style=flat-square" alt="Education"></a>
-  <a href="#contact"><img src="https://img.shields.io/badge/Contact-24292f?style=flat-square" alt="Contact"></a>
-</p>
-
 ---
 
 ## Research Interests
@@ -109,7 +101,7 @@ arXiv:2608.17943 [gr-qc] (2026)</p>
 
 The calculations in these works rely on a set of in-house numerical tools developed for black-hole perturbation theory. These currently include both **frequency-domain homogeneous solvers** and a **time-domain Teukolsky solver**.
 
-<table>
+<table width="100%">
 <tr>
 <td width="50%" valign="top">
 
