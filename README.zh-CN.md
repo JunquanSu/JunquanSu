@@ -63,8 +63,6 @@
 
 <h3>HPHC 坐标下的 Teukolsky 方程时域求解器</h3>
 
-<b>Horizon-Penetrating Hyperboloidally Compactified Teukolsky Evolution</b>
-
 <p>在穿透视界双曲压缩坐标下演化 Teukolsky 方程，并直接在未来零无穷处提取波形。</p>
 
 <a href="numerical-tools/hphc-teukolsky-solver.zh-CN.md"><img src="https://img.shields.io/badge/%E8%AF%A6%E7%BB%86%E4%BB%8B%E7%BB%8D-24292f?style=flat-square" alt="详情"></a>
