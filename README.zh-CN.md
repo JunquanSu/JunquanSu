@@ -2,8 +2,6 @@
   <a href="README.md"><img src="https://img.shields.io/badge/English-English-6e7781?style=flat-square" alt="English"></a>
 </p>
 
-<h1 align="center">苏俊全</h1>
-
 <p align="center">
   <b>天文学博士生</b><br>
   清华大学天文系
