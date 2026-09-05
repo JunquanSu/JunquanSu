@@ -1,3 +1,7 @@
+<p align="right">
+  <a href="README.zh-CN.md"><img src="https://img.shields.io/badge/%E4%B8%AD%E6%96%87-%E4%B8%AD%E6%96%87%E7%89%88-6e7781?style=flat-square" alt="中文"></a>
+</p>
+
 <h1 align="center">Junquan Su</h1>
 
 <p align="center">
