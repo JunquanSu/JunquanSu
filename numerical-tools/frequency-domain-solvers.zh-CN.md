@@ -10,32 +10,30 @@
 
 <p align="center">
   <b>Regge–Wheeler–Zerilli · Teukolsky · Sasaki–Nakamura</b><br>
-  支持复杂频率的黑洞微扰径向与角向求解工具
+  支持复频率的黑洞微扰径向与角向求解工具
 </p>
 
 ---
 
 ## 概述
 
-我们开发了 **Regge–Wheeler–Zerilli**、**Teukolsky** 和 **Sasaki–Nakamura** 方程的齐次求解器。这些求解器可在较大的参数空间中可靠计算径向解和渐近振幅，尤其针对较大复杂频率区域进行了处理。
-
-对于 Teukolsky 方程，这套频域工具还可以求解 **angular Teukolsky equation**，得到相应的角向解和 separation eigenvalues，包括复杂频率情形。
+我们开发了 **Regge–Wheeler–Zerilli**、**Teukolsky** 和 **Sasaki–Nakamura** 方程的齐次求解器。这些求解器可在较大的参数空间中可靠计算径向解和渐近振幅，尤其针对较大复频率区域进行了处理。
 
 ## 功能
 
 - Regge–Wheeler–Zerilli 齐次径向解
 - Teukolsky 齐次径向解
 - Sasaki–Nakamura 齐次径向解
-- angular Teukolsky equation 的角向解
-- separation eigenvalues
+- Teukolsky 方程的角向解
+- 分离常数
 - 渐近振幅
-- 复杂频率计算，包括较大复杂频率区域
+- 复频率计算（解析延拓）
 
 ## 数值可靠性
 
 我们特别关注复杂频率平面上的数值稳定性与可靠性，同时保持适合较大规模计算的效率。
 
-在我们的测试中，一些现有公开实现用于复杂频率时会出现较隐蔽但重要的问题。特别地，[Black Hole Perturbation Toolkit](https://bhptoolkit.org/index.html) 中的部分工具在复杂频率平面的某些区域可能出现标准实频计算中不易察觉的误差。我们也发现 `GeneralizedSasakiNakamura.jl` 在 $\omega$ 平面靠近虚轴的区域会变得不可靠，并且在复杂频率时可能给出错误的径向解和角向解。
+在我们的测试中，一些现有公开实现用于复频率时会出现较隐蔽但重要的问题。例如，[Black Hole Perturbation Toolkit](https://bhptoolkit.org/index.html) 中的部分工具在复频率平面的某些区域可能出现标准实频计算中不易察觉的问题。我们也发现 `GeneralizedSasakiNakamura.jl` 在 $\omega$ 平面靠近虚轴的区域会变得不可靠，并且在复频率时可能给出错误的径向解和角向解。
 
 这些问题促使我们开发独立的数值工具，并将复杂频率平面上的稳健性作为重点。
 
