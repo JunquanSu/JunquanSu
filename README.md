@@ -158,44 +158,51 @@ Then add a link or badge above with href="#your-anchor".
 
 <table width="100%">
 <tr>
-  <th align="left">Period</th>
-  <th align="left">Institution</th>
-  <th align="left">Status</th>
+  <th width="18%" align="left">Period</th>
+  <th width="64%" align="left">Institution</th>
+  <th width="18%" align="left">Status</th>
 </tr>
 <tr>
-  <td><b>2025–</b></td>
-  <td>Department of Astronomy, <b>Tsinghua University</b></td>
-  <td>PhD Student</td>
+  <td width="18%"><b>2025–</b></td>
+  <td width="64%">Department of Astronomy, <b>Tsinghua University</b></td>
+  <td width="18%">PhD Student</td>
 </tr>
 <tr>
-  <td><b>2022–2025</b></td>
-  <td>Department of Physics, School of Physics and Astronomy / TianQin Research Center for Gravitational Physics, <b>Sun Yat-sen University</b></td>
-  <td>Undergraduate Student</td>
+  <td width="18%"><b>2022–2025</b></td>
+  <td width="64%">Department of Physics, School of Physics and Astronomy / TianQin Research Center for Gravitational Physics, <b>Sun Yat-sen University</b></td>
+  <td width="18%">Undergraduate Student</td>
 </tr>
 <tr>
-  <td><b>2021–2022</b></td>
-  <td>Institut Franco-Chinois de l'Energie Nucléaire, <b>Sun Yat-sen University</b></td>
-  <td>Undergraduate Student</td>
+  <td width="18%"><b>2021–2022</b></td>
+  <td width="64%">Institut Franco-Chinois de l'Energie Nucléaire, <b>Sun Yat-sen University</b></td>
+  <td width="18%">Undergraduate Student</td>
+</tr>
+</table>
+
+<details>
+<summary><b>Earlier education</b></summary>
+<br>
+
+<table width="100%">
+<tr>
+  <th width="18%" align="left">Period</th>
+  <th width="64%" align="left">Institution</th>
+  <th width="18%" align="left">Status</th>
 </tr>
 <tr>
-  <td colspan="3">
-    <details>
-      <summary><b>Earlier education</b></summary>
-      <br>
-      <table width="100%">
-        <tr>
-          <td><b>2018–2021</b></td>
-          <td>South China Normal University High School</td>
-          <td>High School Student</td>
-        </tr>
-      </table>
-    </details>
-  </td>
+  <td width="18%"><b>2018–2021</b></td>
+  <td width="64%">South China Normal University High School</td>
+  <td width="18%">High School Student</td>
 </tr>
+</table>
+
+</details>
+
+<table width="100%">
 <tr>
-  <td><b>2015–2018</b></td>
-  <td>Guangzhou No.97 Middle School</td>
-  <td>Middle School Student</td>
+  <td width="18%"><b>2015–2018</b></td>
+  <td width="64%">Guangzhou No.97 Middle School</td>
+  <td width="18%">Middle School Student</td>
 </tr>
 </table>
 
