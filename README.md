@@ -180,7 +180,7 @@ Then add a link or badge above with href="#your-anchor".
 <tr>
   <td colspan="3">
     <details>
-      <summary><b>2018–2021</b></summary>
+      <summary><b>Earlier education</b></summary>
       <br>
       <table width="100%">
         <tr>
