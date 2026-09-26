@@ -188,9 +188,6 @@ Then add a link or badge above with href="#your-anchor".
   </details>
 
 </tr>
-</table>
-
-
 <tr>
   <td width="18%"><b>2015–2018</b></td>
   <td width="64%">Guangzhou No.97 Middle School</td>
