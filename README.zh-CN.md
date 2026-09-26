@@ -140,7 +140,7 @@ arXiv:2608.17943 [gr-qc] (2026)</p>
 <tr>
   <td colspan="3">
     <details>
-      <summary><b>2018–2021</b></summary>
+      <summary><b>更早教育经历</b></summary>
       <br>
       <table width="100%">
         <tr>
