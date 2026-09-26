@@ -130,40 +130,74 @@ The calculations in these works rely on a set of in-house numerical tools develo
 
 ---
 
-## Education
+## Study Notes
 
-<details>
-<summary><b>Show education history</b></summary>
-<br>
+Personal study notes and technical references. More subsections can be added here over time.
+
+<p>
+  <a href="#coding-notes"><img src="https://img.shields.io/badge/Coding%20Notes-24292f?style=flat-square" alt="Coding Notes"></a>
+</p>
+
+<a id="coding-notes"></a>
+### Coding Notes
+
+*Notes will be added here.*
+
+<!--
+Template for adding another subsection:
+
+<a id="your-anchor"></a>
+### Your Subsection Title
+
+Your notes here.
+
+Then add a link or badge above with href="#your-anchor".
+-->
+
+## Education
 
 <table width="100%">
 <tr>
-  <th width="18%" align="left">Period</th>
-  <th width="82%" align="left">Institution</th>
+  <th align="left">Period</th>
+  <th align="left">Institution</th>
+  <th align="left">Status</th>
 </tr>
 <tr>
   <td><b>2025–</b></td>
-  <td>Department of Astronomy, <b>Tsinghua University</b> — PhD Student</td>
+  <td>Department of Astronomy, <b>Tsinghua University</b></td>
+  <td>PhD Student</td>
 </tr>
 <tr>
   <td><b>2022–2025</b></td>
-  <td>Department of Physics, School of Physics and Astronomy / TianQin Research Center for Gravitational Physics, <b>Sun Yat-sen University</b> — Undergraduate Student</td>
+  <td>Department of Physics, School of Physics and Astronomy / TianQin Research Center for Gravitational Physics, <b>Sun Yat-sen University</b></td>
+  <td>Undergraduate Student</td>
 </tr>
 <tr>
   <td><b>2021–2022</b></td>
-  <td>Institut Franco-Chinois de l'Energie Nucléaire, <b>Sun Yat-sen University</b> — Undergraduate Student</td>
+  <td>Institut Franco-Chinois de l'Energie Nucléaire, <b>Sun Yat-sen University</b></td>
+  <td>Undergraduate Student</td>
 </tr>
 <tr>
-  <td><b>2018–2021</b></td>
-  <td>South China Normal University High School</td>
+  <td colspan="3">
+    <details>
+      <summary><b>2018–2021</b></summary>
+      <br>
+      <table width="100%">
+        <tr>
+          <td><b>2018–2021</b></td>
+          <td>South China Normal University High School</td>
+          <td>High School Student</td>
+        </tr>
+      </table>
+    </details>
+  </td>
 </tr>
 <tr>
   <td><b>2015–2018</b></td>
   <td>Guangzhou No.97 Middle School</td>
+  <td>Middle School Student</td>
 </tr>
 </table>
-
-</details>
 
 ---
 
