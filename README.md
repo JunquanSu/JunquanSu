@@ -177,28 +177,20 @@ Then add a link or badge above with href="#your-anchor".
   <td width="64%">Institut Franco-Chinois de l'Energie Nucléaire, <b>Sun Yat-sen University</b></td>
   <td width="18%">Undergraduate Student</td>
 </tr>
-</table>
-
-<details>
+<tr>
+  <details>
 <summary><b>Earlier education</b></summary>
-<br>
-
-<table width="100%">
-<tr>
-  <th width="18%" align="left">Period</th>
-  <th width="64%" align="left">Institution</th>
-  <th width="18%" align="left">Status</th>
-</tr>
-<tr>
+    <br>
   <td width="18%"><b>2018–2021</b></td>
   <td width="64%">South China Normal University High School</td>
   <td width="18%">High School Student</td>
+    </br>
+  </details>
+
 </tr>
 </table>
 
-</details>
 
-<table width="100%">
 <tr>
   <td width="18%"><b>2015–2018</b></td>
   <td width="64%">Guangzhou No.97 Middle School</td>
