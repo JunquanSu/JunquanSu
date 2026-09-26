@@ -115,47 +115,51 @@ arXiv:2608.17943 [gr-qc] (2026)</p>
 
 <table width="100%">
 <tr>
-  <td colspan="3" style="padding:0; border:0;"><img src="assets/full-width-spacer.svg" width="100%" height="1" alt=""></td>
+  <th width="18%" align="left">时间</th>
+  <th width="64%" align="left">单位</th>
+  <th width="18%" align="left">身份</th>
 </tr>
 <tr>
-  <th align="left">时间</th>
-  <th align="left">单位</th>
-  <th align="left">身份</th>
+  <td width="18%"><b>2025–</b></td>
+  <td width="64%">清华大学天文系</td>
+  <td width="18%">博士生</td>
 </tr>
 <tr>
-  <td><b>2025–</b></td>
-  <td>清华大学天文系</td>
-  <td>博士生</td>
+  <td width="18%"><b>2022–2025</b></td>
+  <td width="64%">中山大学物理与天文学院 / 天琴中心（本研及毕设）</td>
+  <td width="18%">本科生</td>
 </tr>
 <tr>
-  <td><b>2022–2025</b></td>
-  <td>中山大学物理与天文学院 / 天琴中心（本研及毕设）</td>
-  <td>本科生</td>
+  <td width="18%"><b>2021–2022</b></td>
+  <td width="64%">中山大学中法核工程与技术学院</td>
+  <td width="18%">本科生</td>
+</tr>
+</table>
+
+<details>
+<summary><b>更早教育经历</b></summary>
+<br>
+
+<table width="100%">
+<tr>
+  <th width="18%" align="left">时间</th>
+  <th width="64%" align="left">单位</th>
+  <th width="18%" align="left">身份</th>
 </tr>
 <tr>
-  <td><b>2021–2022</b></td>
-  <td>中山大学中法核工程与技术学院</td>
-  <td>本科生</td>
+  <td width="18%"><b>2018–2021</b></td>
+  <td width="64%">华南师大附中</td>
+  <td width="18%">高中生</td>
 </tr>
+</table>
+
+</details>
+
+<table width="100%">
 <tr>
-  <td colspan="3">
-    <details>
-      <summary><b>更早教育经历</b></summary>
-      <br>
-      <table width="100%">
-        <tr>
-          <td><b>2018–2021</b></td>
-          <td>华南师大附中</td>
-          <td>高中生</td>
-        </tr>
-      </table>
-    </details>
-  </td>
-</tr>
-<tr>
-  <td><b>2015–2018</b></td>
-  <td>广州市第九十七中学</td>
-  <td>初中生</td>
+  <td width="18%"><b>2015–2018</b></td>
+  <td width="64%">广州市第九十七中学</td>
+  <td width="18%">初中生</td>
 </tr>
 </table>
 
