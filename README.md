@@ -93,6 +93,41 @@ arXiv:2608.17943 [gr-qc] (2026)</p>
 
 </td>
 </tr>
+
+<tr>
+<td width="100%" valign="top">
+
+<h3>A nonlinear voice from GW250114 ringdown</h3>
+
+<p>Yi-Fan Wang, Sizheng Ma, Neev Khera, <b>Junquan Su</b>, and Huan Yang<br>
+arXiv:2601.05734 [gr-qc] (2026)</p>
+
+<p>
+<a href="https://arxiv.org/pdf/2601.05734"><img src="https://img.shields.io/badge/PDF-arXiv-444c56?style=flat-square" alt="PDF"></a>
+<a href="https://arxiv.org/abs/2601.05734"><img src="https://img.shields.io/badge/arXiv-2601.05734-b31b1b?style=flat-square" alt="arXiv"></a>
+<a href="https://github.com/yi-fan-wang/nonlinear-ringdown-GW250114"><img src="https://img.shields.io/badge/Code%2FData-GitHub-2da44e?style=flat-square&logo=github" alt="Code/Data"></a>
+</p>
+
+<details>
+<summary><b>BibTeX</b></summary>
+
+```bibtex
+@article{Wang:2026rev,
+    author = "Wang, Yi-Fan and Ma, Sizheng and Khera, Neev and Su, Junquan and Yang, Huan",
+    title = "{A nonlinear voice from GW250114 ringdown}",
+    eprint = "2601.05734",
+    archivePrefix = "arXiv",
+    primaryClass = "gr-qc",
+    reportNumber = "LIGO-P2500804",
+    month = "1",
+    year = "2026"
+}
+```
+
+</details>
+
+</td>
+</tr>
 </table>
 
 ---
@@ -200,3 +235,4 @@ Then add a link or badge above with href="#your-anchor".
 ## Contact
 
 <a href="https://github.com/JunquanSu"><img src="https://img.shields.io/badge/GitHub-JunquanSu-24292f?style=flat-square&logo=github" alt="GitHub"></a>
+<a href="https://inspirehep.net/authors/3113182?ui-citation-summary=true"><img src="https://img.shields.io/badge/INSPIRE--HEP-Profile-6e7781?style=flat-square" alt="INSPIRE-HEP"></a>
