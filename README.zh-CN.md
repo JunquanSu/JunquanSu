@@ -69,6 +69,22 @@ arXiv:2601.05734 [gr-qc] (2026)</p>
 
 </td>
 </tr>
+
+<tr>
+<td width="100%" valign="top">
+
+<h3>Tidal Excitation of Relativistic Stars</h3>
+
+<p>Zhiqiang Miao, <b>Junquan Su</b>, Neev Khera, and Huan Yang （杨桓）<br>
+arXiv:2610.18475 [gr-qc] (2026)</p>
+
+<p>
+<a href="https://arxiv.org/pdf/2610.18475"><img src="https://img.shields.io/badge/PDF-arXiv-444c56?style=flat-square" alt="PDF"></a>
+<a href="https://arxiv.org/abs/2610.18475"><img src="https://img.shields.io/badge/arXiv-2610.18475-b31b1b?style=flat-square" alt="arXiv"></a>
+</p>
+
+</td>
+</tr>
 </table>
 
 ---
