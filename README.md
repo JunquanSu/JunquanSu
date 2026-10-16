@@ -246,17 +246,6 @@ Then add a link or badge above with href="#your-anchor".
   <td width="18%">Undergraduate Student</td>
 </tr>
 <tr>
-  <details>
-<summary><b>Earlier education</b></summary>
-    <br>
-  <td width="18%"><b>2018–2021</b></td>
-  <td width="64%">South China Normal University High School</td>
-  <td width="18%">High School Student</td>
-    </br>
-  </details>
-
-</tr>
-<tr>
   <td width="18%"><b>2015–2018</b></td>
   <td width="64%">Guangzhou No.97 Middle School</td>
   <td width="18%">Middle School Student</td>
